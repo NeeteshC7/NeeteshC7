@@ -3,7 +3,7 @@
 <h3 align="center">A Data scientist weaving insights in the realm of computational biology and beyond</h3>
 
 <img align="center" width=100% height=200px src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-<img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="390px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeteshc7&label=Profile%20views&color=0eb44d&style=flat" alt="neeteshc7" /> </p>
 
