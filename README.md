@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi  <img  alt="Pikachu" width=50px src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">, I'm Neetesh</h1> 
 <h3 align="center">A Data scientist weaving insights in the realm of computational biology and beyond</h3>
 
